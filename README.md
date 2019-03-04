@@ -4,6 +4,10 @@ A prototype of  a tickes-to-matrix transformer algorithm
 just clone...
 
 ```shell
+git clone <url>
+```
+
+```shell
 cd to/cloned/dir
 ```
 and run
@@ -11,6 +15,6 @@ and run
 ./t2m.pl
 ```
 
-you shold see a new file _table.mat_
+you should see a new file _table.mat_
 
 that's it! :)
